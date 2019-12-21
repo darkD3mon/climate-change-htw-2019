@@ -1,0 +1,16 @@
+Go to project directory (cd ..)
+
+1. Fetch
+git fetch
+
+2. Pull
+git pull
+
+3. Staging
+git add .
+
+4. Commit
+git commit -m "Nachricht"
+
+5. Push
+git push
